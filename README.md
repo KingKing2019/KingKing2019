@@ -1,6 +1,6 @@
 ### Iai, Marcos Felipe aqui! 😁👍
 
-- 🔭 Sem trabalho, porém a de procurando um!
+- 🔭 Sem trabalho, porém a procura de um!
 - 🌱 Atualmente estudando Java, JavaScript, TypeScript... dentre outras coisas!
 
 <div align="center">
